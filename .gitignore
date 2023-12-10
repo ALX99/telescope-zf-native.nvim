@@ -1,1 +1,2 @@
 lib/libzf.so
+*.o
